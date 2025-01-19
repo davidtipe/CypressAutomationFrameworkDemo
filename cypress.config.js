@@ -68,6 +68,6 @@ module.exports = defineConfig({
       const file = config.env.configFile || 'demoqa'
       return getConfigurationByFile(file)
     },
-    testIsolation: false,
+    testIsolation: true,
   },
 });
