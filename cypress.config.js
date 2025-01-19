@@ -16,8 +16,8 @@ module.exports = defineConfig({
   viewportHeight: 1080,
   videoUploadOnPasses: true,
   retries: {
-    runMode: 1,
-    openMode: 1
+    runMode: 0,
+    openMode: 0
   },
   e2e: {
     setupNodeEvents(on, config) {
