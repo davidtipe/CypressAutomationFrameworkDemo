@@ -1,0 +1,52 @@
+{
+    "cards":[
+        "Elements",
+        "Forms",
+        "Alerts, Frame & Windows",
+        "Widgets",
+        "Interactions",
+        "Book Store Application"
+    ],
+    "elements":[
+        "Text Box",
+        "Check Box",
+        "Radio Button",
+        "Web Tables",
+        "Buttons",
+        "Links",
+        "Broken Links - Images",
+        "Upload and Download",
+        "Dynamic Properties"
+    ],
+    "textBoxForm":{
+        "fullName":"Joe Bloggs",
+        "email":"joe.bloggs@mail.com",
+        "currentAddress":"2 monopoly close, test town, London. X9 8HF",
+        "permanentAddress":"20 monopoly close, test town, London. X9 8HF"
+    },
+    "checkBoxFolders":[
+        "Home",
+        "Desktop",
+        "Notes",
+        "Commands",
+        "Documents",
+        "WorkSpace",
+        "React",
+        "Angular",
+        "Veu",
+        "Office",
+        "Public",
+        "Private",
+        "Classified",
+        "General",
+        "Downloads",
+        "Word File.doc",
+        "Excel File.doc"
+    ],
+    "radioButtonText":"Do you like the site?",
+    "radioButtonOptions":[
+        "Yes",
+        "Impressive",
+        "No"
+    ]
+}

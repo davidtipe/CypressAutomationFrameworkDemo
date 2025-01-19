@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://demoqa.com/",
+  "env": {
+    "env": "demoqa"
+  }
+}

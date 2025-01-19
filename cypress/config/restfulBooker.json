@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://restful-booker.herokuapp.com/",
+    "env": {
+      "env": "restfulBooker"
+    }
+  }
