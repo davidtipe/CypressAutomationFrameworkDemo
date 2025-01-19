@@ -44,13 +44,6 @@ describe('verify demoqa.com', () => {
     element.submitButton().click()
   })
 
-  // it('should display correct data in submitted form', () => {
-  //   element.nameDataPoint().should('contain', data.textBoxForm.fullName)
-  //   element.emailDataPoint().should('contain', data.textBoxForm.email)
-  //   element.currentAddressDataPoint().should('contain', data.textBoxForm.currentAddress)
-  //   element.permanentAddressDataPoint().should('contain', data.textBoxForm.permanentAddress)
-  // })
-
   it('should select folders in the checkbox and display correct success message', () => {
     homepage.clickCard(data.cards[0]);
     checkbox.checkboxTab().click()
